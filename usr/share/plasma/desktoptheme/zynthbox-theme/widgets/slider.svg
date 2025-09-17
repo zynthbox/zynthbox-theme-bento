@@ -30,11 +30,11 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.8409968"
-     inkscape:cx="10.101016"
-     inkscape:cy="15.408329"
+     inkscape:zoom="46.727974"
+     inkscape:cx="89.560912"
+     inkscape:cy="18.7254"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="groove-highlight-bottomright"
      width="128px"
      height="128px"
      showgrid="true"
@@ -393,12 +393,12 @@
     <path
        class="ColorScheme-Highlight"
        inkscape:connector-curvature="0"
-       style="fill:#cfe9f5;fill-opacity:1"
+       style="fill:currentColor;fill-opacity:1"
        d="m 51,29 v 3 h 3 v -3 z"
        id="groove-highlight-vertical-top" />
     <path
        class="ColorScheme-Highlight"
-       style="fill:#cfe9f5;fill-opacity:1"
+       style="fill:currentColor;fill-opacity:1"
        d="m 50,29 h -3 v 3 h 3 z"
        id="groove-highlight-vertical-topleft"
        sodipodi:nodetypes="ccccc"
@@ -407,7 +407,7 @@
        class="ColorScheme-Highlight"
        id="groove-highlight-vertical-bottom"
        d="m 51,40 v -3 h 3 v 3 z"
-       style="fill:#cfe9f5;fill-opacity:1"
+       style="fill:currentColor;fill-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        class="ColorScheme-Highlight"
@@ -415,50 +415,69 @@
        sodipodi:nodetypes="ccccc"
        id="groove-highlight-vertical-bottomleft"
        d="m 50,40 h -3 v -3 h 3 z"
-       style="fill:#cfe9f5;fill-opacity:1" />
+       style="fill:currentColor;fill-opacity:1" />
     <path
        class="ColorScheme-Highlight"
        id="groove-highlight-vertical-center"
        d="m 51,33 v 3 h 3 v -3 z"
-       style="fill:#cfe9f5;fill-opacity:1"
+       style="fill:currentColor;fill-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        class="ColorScheme-Highlight"
        inkscape:connector-curvature="0"
-       style="fill:#cfe9f5;fill-opacity:1"
+       style="fill:currentColor;fill-opacity:1"
        d="m 47,33 v 3 h 3 v -3 z"
        id="groove-highlight-vertical-left" />
     <g
-       id="groove-highlight-vertical-topright"
-       style="fill:#cfe9f5;fill-opacity:1">
+       id="groove-highlight-vertical-topright">
       <path
-         style="fill:#cfe9f5;fill-opacity:1"
+         style="fill:currentColor;fill-opacity:1"
          d="m 58,32 v -3 h -3 v 3 z"
          id="path888"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          class="ColorScheme-Highlight" />
+      <path
+         inkscape:connector-curvature="0"
+         class="ColorScheme-Text"
+         id="rect1176"
+         d="m 58,29 v 1 h 5 v 2 h 1 v -2 -1 z"
+         style="fill:currentColor" />
     </g>
     <g
-       id="groove-highlight-vertical-right"
-       style="fill:#cfe9f5;fill-opacity:1">
+       id="groove-highlight-vertical-right">
       <path
          id="path900"
          d="m 55,33 v 3 h 3 v -3 z"
-         style="fill:#cfe9f5;fill-opacity:1"
+         style="fill:currentColor;fill-opacity:1"
          inkscape:connector-curvature="0"
          class="ColorScheme-Highlight" />
+      <rect
+         class="ColorScheme-Text"
+         y="33"
+         x="63"
+         height="3"
+         width="1"
+         id="rect1181"
+         style="fill:currentColor" />
     </g>
     <g
-       id="groove-highlight-vertical-bottomright"
-       style="fill:#cfe9f5;fill-opacity:1">
+       id="groove-highlight-vertical-bottomright">
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc"
          id="path894"
          d="m 58,37 v 3 h -3 v -3 z"
-         style="fill:#cfe9f5;fill-opacity:1"
+         style="fill:currentColor;fill-opacity:1"
          class="ColorScheme-Highlight" />
+      <rect
+         class="ColorScheme-Text"
+         y="37"
+         x="63"
+         height="3"
+         width="1"
+         id="rect1183"
+         style="fill:currentColor" />
     </g>
     <g
        id="groove-vertical-topright">
@@ -599,8 +618,7 @@
     </g>
     <g
        id="groove-highlight-bottom"
-       transform="rotate(90,85,42)"
-       style="display:inline">
+       transform="rotate(90,85,42)">
       <path
          class="ColorScheme-Highlight"
          inkscape:connector-curvature="0"
