@@ -76,7 +76,7 @@ ForegroundVisited=155,89,182
 
 [Colors:Selection]
 BackgroundAlternate=30,87,116
-BackgroundNormal=0,163,255
+BackgroundNormal=255,255,255
 DecorationFocus=0,163,255
 DecorationHover=0,163,255
 ForegroundActive=252,252,252
@@ -84,7 +84,7 @@ ForegroundInactive=161,169,177
 ForegroundLink=253,188,75
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=252,252,252
+ForegroundNormal=0,0,0
 ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
@@ -103,8 +103,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:View]
-BackgroundAlternate=35,38,41
-BackgroundNormal=32,34,37
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
 DecorationFocus=0,163,255
 DecorationHover=0,163,255
 ForegroundActive=0,163,255
@@ -117,10 +117,10 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Window]
-BackgroundAlternate=49,54,59
-BackgroundNormal=52,62,81
-DecorationFocus=0,163,255
-DecorationHover=0,163,255
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
+DecorationFocus=255,255,255
+DecorationHover=255,255,255
 ForegroundActive=0,163,255
 ForegroundInactive=161,169,177
 ForegroundLink=29,153,243
@@ -132,7 +132,7 @@ ForegroundVisited=155,89,182
 
 [General]
 ColorScheme=Breeze Dark
-Name=Breeze Dark
+Name=Bento
 shadeSortColumn=true
 
 [KDE]
