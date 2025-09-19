@@ -25,8 +25,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="10.378378"
-     inkscape:cx="26.641928"
-     inkscape:cy="51.356773"
+     inkscape:cx="18.933594"
+     inkscape:cy="52.127606"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -448,33 +448,33 @@
        x="11"
        y="45.062355" />
     <rect
-       style="opacity:0.875;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.377964"
+       style="opacity:0.875;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.000132198"
        id="hint-right-inset"
-       width="4"
-       height="2"
-       x="51.614582"
-       y="47.976562" />
+       width="0.001"
+       height="0.00097867835"
+       x="52.614082"
+       y="48.97607" />
     <rect
-       y="47.976562"
-       x="3.6145833"
-       height="2"
-       width="4"
+       y="48.97607"
+       x="4.6140833"
+       height="0.00097867835"
+       width="0.001"
        id="hint-left-inset"
-       style="opacity:0.875;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.377964" />
+       style="opacity:0.875;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.000132198" />
     <rect
-       style="opacity:0.875;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.00597614"
+       style="opacity:0.875;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.000132198"
        id="hint-top-inset"
-       width="2"
-       height="0.001"
-       x="34"
-       y="21" />
+       width="0.001"
+       height="0.00097867835"
+       x="34.9995"
+       y="21.00001" />
     <rect
-       y="67.976562"
+       y="67.97657"
        x="34.614582"
-       height="0.001"
+       height="0.00097867835"
        width="0.001"
        id="hint-bottom-inset"
-       style="opacity:0.875;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.00013363" />
+       style="opacity:0.875;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.000132197" />
     <g
        transform="matrix(0.5517241,0,0,2,10.793569,-163.0006)"
        id="focus-top">

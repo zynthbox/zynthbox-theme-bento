@@ -27,7 +27,7 @@
      inkscape:zoom="14.677243"
      inkscape:cx="28.649795"
      inkscape:cy="47.829146"
-     inkscape:current-layer="bottom"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -319,17 +319,13 @@
     </g>
     <g
        id="bottom"
-       transform="matrix(0.5517241,0,0,2,10.793571,-221.0006)">
+       transform="matrix(0.5517241,0,0,2,10.793571,-221.0006)"
+       style="opacity:0.2;fill:#f2f2f2">
       <path
          inkscape:connector-curvature="0"
          id="path2691"
          d="M 4,142.0003 V 144 c 0.021694,6.7e-4 0.040639,0 0.0625,0 h 57.875 c 0.02186,0 0.04081,6.7e-4 0.0625,0 v -1.9997 z"
-         style="fill:#333333" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 4,143.50022 v 0.5 c 0.021694,1.7e-4 0.040639,0 0.0625,0 h 57.875 c 0.02186,0 0.04081,1.7e-4 0.0625,0 v -0.5 z"
-         id="path5362"
-         style="fill:#ffffff;opacity:0.5" />
+         style="fill:#f2f2f2" />
     </g>
     <g
        transform="translate(-44.999535,-27.00061)"
@@ -350,15 +346,17 @@
     </g>
     <g
        transform="matrix(0.744186,0,0,2.4635078,-31.650704,-13.343751)"
-       id="center">
+       id="center"
+       style="opacity:0.2;fill:#f9f9f9">
       <g
          transform="matrix(0.344,0,0,0.8118505,3.584,-783.88382)"
-         id="toolbutton-pressed-center">
+         id="toolbutton-pressed-center"
+         style="fill:#f9f9f9">
         <path
            inkscape:connector-curvature="0"
            id="path11378"
            d="m 164,987.7235 v 16 h 125 v -16 z"
-           style="fill:#333333" />
+           style="fill:#f9f9f9" />
       </g>
     </g>
     <g

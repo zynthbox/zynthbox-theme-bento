@@ -7,7 +7,7 @@
    id="svg3642"
    sodipodi:version="0.32"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="tracks-background.svg"
+   sodipodi:docname="statusinfo_background.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    version="1.0"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,7 +26,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="10.378378"
      inkscape:cx="26.641928"
-     inkscape:cy="51.260419"
+     inkscape:cy="20.523438"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -448,9 +448,9 @@
        x="11"
        y="45.062355" />
     <rect
-       style="opacity:0.875;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.267261"
+       style="opacity:0.875;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.377964"
        id="hint-right-inset"
-       width="2"
+       width="4"
        height="2"
        x="51.614582"
        y="47.976562" />
@@ -458,9 +458,9 @@
        y="47.976562"
        x="3.6145833"
        height="2"
-       width="2"
+       width="4"
        id="hint-left-inset"
-       style="opacity:0.875;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.267261" />
+       style="opacity:0.875;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.377964" />
     <rect
        style="opacity:0.875;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.00597614"
        id="hint-top-inset"
