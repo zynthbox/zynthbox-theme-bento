@@ -55,12 +55,12 @@
      inkscape:pagecheckerboard="1"
      inkscape:blackoutopacity="0.0"
      showgrid="true"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="groove-topleft"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="4.4636116"
-     inkscape:cx="88.381347"
-     inkscape:cy="69.226454"
+     inkscape:zoom="35.708893"
+     inkscape:cx="17.712675"
+     inkscape:cy="16.018419"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -106,7 +106,7 @@
          id="path70-0"
          d="m 28 7 v 1 h 3 v -1 z"
          inkscape:connector-curvature="0"
-         style="fill:#ffffff" />
+         style="fill:#ffffff;opacity:0.7" />
     </g>
     <g
        id="groove-topleft"
@@ -119,7 +119,7 @@
       <path
          id="path74-6"
          d="m 27,7 h -3 v 3 h 1 V 8 h 2 z"
-         style="fill:#ffffff"
+         style="fill:#ffffff;opacity:0.7"
          sodipodi:nodetypes="ccccccc" />
     </g>
     <g
@@ -133,7 +133,7 @@
       <path
          id="path78-2"
          d="m 32,7 v 1 h 2 v 2 h 1 V 7 Z"
-         style="fill:#ffffff"
+         style="fill:#ffffff;opacity:0.7"
          sodipodi:nodetypes="ccccccc" />
     </g>
     <g
@@ -149,7 +149,7 @@
          id="path82-6"
          d="m 28,18 v -1 h 3 v 1 z"
          inkscape:connector-curvature="0"
-         style="fill:#ffffff"
+         style="fill:#ffffff;opacity:0.7"
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
@@ -163,7 +163,7 @@
       <path
          id="path86-1"
          d="m 24,15 v 3 h 3 v -1 h -2 v -2 z"
-         style="fill:#ffffff"
+         style="fill:#ffffff;opacity:0.7"
          sodipodi:nodetypes="ccccccc" />
     </g>
     <g
@@ -177,7 +177,7 @@
       <path
          id="path90-8"
          d="m 34,15 v 2 h -2 v 1 h 3 v -3 z"
-         style="fill:#ffffff"
+         style="fill:#ffffff;opacity:0.7"
          sodipodi:nodetypes="ccccccc" />
     </g>
     <g
@@ -202,7 +202,7 @@
          id="path95-7"
          d="m 24 11 v 3 h 1 v -3 z"
          inkscape:connector-curvature="0"
-         style="fill:#ffffff" />
+         style="fill:#ffffff;opacity:0.7" />
     </g>
     <g
        id="groove-right"
@@ -217,7 +217,7 @@
          id="path99-9"
          d="m 34 11 v 3 h 1 v -3 z"
          inkscape:connector-curvature="0"
-         style="fill:#ffffff" />
+         style="fill:#ffffff;opacity:0.7" />
     </g>
     <g
        id="groove-highlight-top"

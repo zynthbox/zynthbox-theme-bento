@@ -57,36 +57,6 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       y2="63.81818"
-       x2="191.00005"
-       y1="66.181816"
-       x1="191.00005"
-       id="linearGradient1148-3"
-       xlink:href="#normal-gradient"
-       inkscape:collect="always"
-       gradientTransform="matrix(0.09090909,0,0,11,11.63636,-700)" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="40.000019"
-       x2="191"
-       y1="66"
-       x1="191"
-       id="linearGradient1148-9"
-       xlink:href="#normal-gradient"
-       inkscape:collect="always"
-       gradientTransform="translate(-176,-36)" />
-    <linearGradient
-       gradientTransform="matrix(0.09090909,0,0,11,-46.36364,-700)"
-       inkscape:collect="always"
-       xlink:href="#normal-gradient"
-       id="linearGradient1148-3-3"
-       x1="191.00005"
-       y1="66.181816"
-       x2="191.00005"
-       y2="63.81818"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
        y2="142"
        x2="129"
        y1="168"
@@ -181,13 +151,13 @@
      inkscape:window-height="1016"
      id="namedview317"
      showgrid="true"
-     inkscape:current-layer="normal-topright"
+     inkscape:current-layer="svg2"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="16"
-     inkscape:cx="185.71875"
-     inkscape:cy="83.1875"
+     inkscape:zoom="8"
+     inkscape:cx="165.6875"
+     inkscape:cy="177.0625"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -409,30 +379,25 @@
     <path
        id="path915"
        d="m 0,28 v 2 H 2 V 29 H 1 v -1 z"
-       style="fill:#ffffff"
+       style="fill:#ffffff;opacity:0.7"
        sodipodi:nodetypes="ccccccc" />
   </g>
   <g
      id="normal-bottom"
      transform="translate(176,66)"
      fill-rule="evenodd">
-    <path
-       id="rect829-6"
-       transform="scale(-1)"
-       d="m -26,-30 h 22 v 2 h -22 z" />
-    <path
-       id="rect829-6-2"
-       transform="scale(-1)"
-       d="m -26,-30 h 22 v 1 h -22 z"
-       opacity="1"
-       style="fill:#ffffff" />
     <rect
        y="28"
        x="4"
        height="2"
        width="22"
        id="b"
-       style="fill:url(#linearGradient1148-9);fill-opacity:1;fill-rule:evenodd" />
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd" />
+    <path
+       id="rect829-6-2"
+       transform="scale(-1)"
+       d="m -26,-30 h 22 v 1 h -22 z"
+       style="fill:#ffffff;opacity:0.7" />
   </g>
   <g
      id="normal-topleft"
@@ -445,17 +410,13 @@
     <path
        id="path915-2"
        d="m 0,28 v 2 H 2 V 29 H 1 v -1 z"
-       style="fill:#ffffff"
+       style="fill:#ffffff;opacity:0.7"
        sodipodi:nodetypes="ccccccc" />
   </g>
   <g
      id="normal-top"
      transform="matrix(1,0,0,-1,176,92)"
      fill-rule="evenodd">
-    <path
-       id="rect829-6-0"
-       transform="scale(-1)"
-       d="m -26,-30 h 22 v 2 h -22 z" />
     <rect
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd"
        id="t"
@@ -468,8 +429,7 @@
        id="rect829-6-2-9"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 1 h -22 z"
-       opacity="1"
-       style="fill:#ffffff;opacity:1" />
+       style="fill:#ffffff;opacity:0.7" />
   </g>
   <g
      id="normal-topright"
@@ -482,30 +442,26 @@
     <path
        id="path915-0"
        d="m 0,28 v 2 H 2 V 29 H 1 v -1 z"
-       style="fill:#ffffff"
+       style="fill:#ffffff;opacity:0.7"
        sodipodi:nodetypes="ccccccc" />
   </g>
   <g
      id="normal-right"
      transform="matrix(0,1,1,0,178,64)"
      fill-rule="evenodd">
-    <path
-       id="rect829-6-26"
-       transform="scale(-1)"
-       d="m -26,-30 h 22 v 2 h -22 z" />
-    <path
-       id="rect829-6-2-1"
-       transform="scale(-1)"
-       d="m -26,-30 h 22 v 1 h -22 z"
-       style="fill:#ffffff" />
     <rect
        y="4"
        x="28"
        height="22"
        width="2"
        id="r"
-       style="fill:url(#linearGradient1148-3);fill-opacity:1;fill-rule:evenodd"
-       transform="matrix(0,1,1,0,0,0)" />
+       transform="matrix(0,1,1,0,0,0)"
+       style="fill:#000000;opacity:1" />
+    <path
+       id="rect829-6-2-1"
+       transform="scale(-1)"
+       d="m -26,-30 h 22 v 1 h -22 z"
+       style="fill:#ffffff;opacity:0.7" />
   </g>
   <g
      id="normal-bottomright"
@@ -518,31 +474,26 @@
     <path
        id="path915-9"
        d="m 0,28 v 2 H 2 V 29 H 1 v -1 z"
-       style="fill:#ffffff"
+       style="fill:#ffffff;opacity:0.7"
        sodipodi:nodetypes="ccccccc" />
   </g>
   <g
      id="normal-left"
      transform="rotate(90,70,134)"
      fill-rule="evenodd">
-    <path
-       id="rect829-6-26-0"
-       transform="scale(-1)"
-       d="m -26,-30 h 22 v 2 h -22 z" />
-    <path
-       id="rect829-6-2-1-2"
-       transform="scale(-1)"
-       d="m -26,-30 h 22 v 1 h -22 z"
-       opacity="1"
-       style="fill:#ffffff" />
     <rect
-       style="fill:url(#linearGradient1148-3-3);fill-opacity:1;fill-rule:evenodd"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd"
        id="l"
        width="2"
        height="22"
        x="-30"
        y="4"
        transform="rotate(-90)" />
+    <path
+       id="rect829-6-2-1-2"
+       transform="scale(-1)"
+       d="m -26,-30 h 22 v 1 h -22 z"
+       style="fill:#ffffff;opacity:0.7" />
   </g>
   <path
      style="stroke-width:0.999996"
@@ -1266,119 +1217,114 @@
      id="pressed-center"
      d="m 180,182 h 22 v 22 h -22 z"
      fill-rule="evenodd"
-     style="fill:#ffffff" />
+     style="fill:#00a3ff;fill-opacity:1" />
   <g
      id="pressed-bottomleft"
      transform="translate(174,180)"
-     fill-rule="evenodd">
+     fill-rule="evenodd"
+     style="fill:#0000ff">
     <path
        id="rect833-7-3-55-1"
-       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
-       style="fill:#ffffff" />
-    <path
-       id="path915-4-7"
-       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
-       style="fill:#ffffff" />
+       d="m 0,28 v 2 h 2 v -2 z"
+       style="fill:#00a3ff;fill-opacity:1"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <g
      id="pressed-bottom"
      transform="translate(176,180)"
-     fill-rule="evenodd">
+     fill-rule="evenodd"
+     style="fill:#0000ff">
     <path
        id="rect829-6-5-1"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 2 h -22 z"
-       style="fill:#ffffff" />
+       style="fill:#00a3ff;fill-opacity:1" />
     <path
        id="rect829-6-2-6-1"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 1 h -22 z"
-       style="fill:#ffffff" />
+       style="fill:#00a3ff;fill-opacity:1" />
   </g>
   <g
      id="pressed-topleft"
      transform="matrix(1,0,0,-1,174,206)"
      fill-rule="evenodd"
-     style="fill:#ffffff">
+     style="fill:#00a3ff;fill-opacity:1">
     <path
        id="rect833-7-3-1-3-9"
-       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
-       style="fill:#ffffff" />
-    <path
-       id="path915-2-7-7"
-       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
-       style="fill:#ffffff" />
+       d="m 0,28 v 2 h 2 v -2 z"
+       style="fill:#00a3ff;fill-opacity:1"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <g
      id="pressed-top"
      transform="matrix(1,0,0,-1,176,206)"
-     fill-rule="evenodd">
+     fill-rule="evenodd"
+     style="fill:#0000ff">
     <path
        id="rect829-6-0-5-6"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 2 h -22 z"
-       style="fill:#ffffff" />
+       style="fill:#00a3ff;fill-opacity:1" />
     <path
        id="rect829-6-2-9-2-7"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 1 h -22 z"
-       style="fill:#ffffff" />
+       style="fill:#00a3ff;fill-opacity:1" />
   </g>
   <g
      id="pressed-topright"
      transform="matrix(0,1,1,0,178,176)"
-     fill-rule="evenodd">
+     fill-rule="evenodd"
+     style="fill:#0000ff">
     <path
        id="rect833-7-3-6-4-6"
-       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
-       style="fill:#ffffff" />
-    <path
-       id="path915-0-7-5"
-       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
-       style="fill:#ffffff" />
+       d="m 0,28 v 2 h 2 v -2 z"
+       style="fill:#00a3ff;fill-opacity:1"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <g
      id="pressed-right"
      transform="matrix(0,1,1,0,178,178)"
-     fill-rule="evenodd">
+     fill-rule="evenodd"
+     style="fill:#0000ff">
     <path
        id="rect829-6-26-4-3"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 2 h -22 z"
-       style="fill:#ffffff" />
+       style="fill:#00a3ff;fill-opacity:1" />
     <path
        id="rect829-6-2-1-3-9"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 1 h -22 z"
-       style="fill:#ffffff" />
+       style="fill:#00a3ff;fill-opacity:1" />
   </g>
   <g
      id="pressed-bottomright"
      transform="matrix(-1,0,0,1,208,180)"
-     fill-rule="evenodd">
+     fill-rule="evenodd"
+     style="fill:#0000ff">
     <path
        id="rect833-7-3-7-7-8"
-       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
-       style="fill:#ffffff" />
-    <path
-       id="path915-9-8-1"
-       d="m 0,28 c 0,1.108 0.892,2 2,2 V 29 C 1.446,29 1,28.554 1,28 Z"
-       style="fill:#ffffff" />
+       d="m 0,28 v 2 h 2 v -2 z"
+       style="fill:#00a3ff;fill-opacity:1"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <g
      id="pressed-left"
      transform="rotate(90,13,191)"
-     fill-rule="evenodd">
+     fill-rule="evenodd"
+     style="fill:#0000ff">
     <path
        id="rect829-6-26-0-8-9"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 2 h -22 z"
-       style="fill:#ffffff" />
+       style="fill:#00a3ff;fill-opacity:1" />
     <path
        id="rect829-6-2-1-2-8-3"
        transform="scale(-1)"
        d="m -26,-30 h 22 v 1 h -22 z"
-       style="fill:#ffffff" />
+       style="fill:#00a3ff;fill-opacity:1" />
   </g>
   <path
      style="stroke-width:0.999996"
@@ -2016,44 +1962,44 @@
      xml:space="preserve"><tspan
        x="96"
        y="-56"
-       id="tspan23">NOTE: Some margin hints have 0.001 width or height because you can't use exactly 0!
+       id="tspan1">NOTE: Some margin hints have 0.001 width or height because you can't use exactly 0!
 </tspan><tspan
        x="96"
        y="-43.500003"
-       id="tspan24">NOTE: shadow, hover and focus (not focus-background) use negative margins!
+       id="tspan2">NOTE: shadow, hover and focus (not focus-background) use negative margins!
 </tspan><tspan
        x="96"
        y="-31.000003"
-       id="tspan25">This behavior is implemented in at least the following files (please keep this up to date, fix the problem or find a better place to </tspan><tspan
+       id="tspan3">This behavior is implemented in at least the following files (please keep this up to date, fix the problem or find a better place to </tspan><tspan
        x="96"
        y="-18.500003"
-       id="tspan26">put this info):
+       id="tspan4">put this info):
 </tspan><tspan
        x="96"
        y="-6.000003"
-       id="tspan27">plasma-framework/src/declarativeimports/plasmacomponents3/private/ButtonShadow.qml
+       id="tspan5">plasma-framework/src/declarativeimports/plasmacomponents3/private/ButtonShadow.qml
 </tspan><tspan
        x="96"
        y="6.499997"
-       id="tspan28">plasma-framework/src/declarativeimports/plasmacomponents3/private/ButtonHover.qml
+       id="tspan6">plasma-framework/src/declarativeimports/plasmacomponents3/private/ButtonHover.qml
 </tspan><tspan
        x="96"
        y="18.999997"
-       id="tspan29">plasma-framework/src/declarativeimports/plasmacomponents3/private/ButtonFocus.qml
+       id="tspan7">plasma-framework/src/declarativeimports/plasmacomponents3/private/ButtonFocus.qml
 </tspan><tspan
        x="96"
        y="31.499997"
-       id="tspan30">
+       id="tspan8">
 </tspan><tspan
        x="96"
        y="43.999997"
-       id="tspan31">We should add support for a negative margins hint to FrameSvg and document it instead of requiring people to read source </tspan><tspan
+       id="tspan9">We should add support for a negative margins hint to FrameSvg and document it instead of requiring people to read source </tspan><tspan
        x="96"
        y="56.499997"
-       id="tspan32">code in order to know these things. Unfortunately, not sure if we can change the code of ButtonShadow since it would break </tspan><tspan
+       id="tspan10">code in order to know these things. Unfortunately, not sure if we can change the code of ButtonShadow since it would break </tspan><tspan
        x="96"
        y="68.999997"
-       id="tspan33">themes that rely on this undocumented behaviour. Maybe in KF6.</tspan></text>
+       id="tspan11">themes that rely on this undocumented behaviour. Maybe in KF6.</tspan></text>
   <path
      fill-rule="evenodd"
      fill="#00ff00"

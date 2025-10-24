@@ -74,9 +74,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.643577"
-     inkscape:cx="6.3387817"
-     inkscape:cy="17.784639"
+     inkscape:zoom="23.537572"
+     inkscape:cx="5.5443271"
+     inkscape:cy="5.7567534"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -191,7 +191,8 @@
       <path
          id="path1636-23"
          d="m 28,7 v 3 h 3 V 7 Z"
-         sodipodi:nodetypes="ccccc" />
+         sodipodi:nodetypes="ccccc"
+         style="fill:#000000;fill-opacity:1;opacity:0" />
       <path
          id="path70-0"
          d="m 28,7 v 1 h 3 V 7 Z"
@@ -203,8 +204,9 @@
        transform="matrix(0.90909091,0,0,0.90909091,-11.922799,905.08351)">
       <path
          id="path1626-5"
-         d="m 24,10 h 3 V 7 c -1.662,0 -3,1.338 -3,3 z"
-         style="fill:#000000" />
+         d="M 24,10 H 25.5 27 V 8.5 7 h -3 z"
+         style="fill:#000000;fill-opacity:1;opacity:0"
+         sodipodi:nodetypes="ccccccc" />
       <path
          id="path74-6"
          d="m 27,7 h -3 v 3 h 1 V 8 h 2 z"
@@ -216,8 +218,9 @@
        transform="matrix(0.90909091,0,0,0.90909091,-11.922799,905.08351)">
       <path
          id="path1634-7"
-         d="m 32,10 h 3 C 35,8.338 33.662,7 32,7 Z"
-         style="fill:#000000" />
+         style="fill:#000000;fill-opacity:1;opacity:0"
+         d="M 32,10 H 33.5 35 V 7 h -3 v 1.5 z"
+         sodipodi:nodetypes="ccccccc" />
       <path
          id="path78-2"
          d="m 32,7 v 1 h 2 v 2 h 1 V 7 Z"
@@ -226,12 +229,13 @@
     </g>
     <g
        id="bar-inactive-bottom"
-       transform="matrix(0.90909091,0,0,0.90909091,-11.922799,905.08351)">
+       transform="matrix(0.90909091,0,0,0.90909091,-11.922799,905.08351)"
+       style="fill:#000000">
       <path
          id="path1636-28"
          d="m 28,15 v 3 h 3 v -3 z"
          sodipodi:nodetypes="ccccc"
-         style="fill:#000000" />
+         style="fill:#000000;fill-opacity:1;opacity:0" />
       <path
          id="path82-6"
          d="m 28,18 v -1 h 3 v 1 z"
@@ -244,8 +248,9 @@
        transform="matrix(0.90909091,0,0,0.90909091,-11.922799,905.08351)">
       <path
          id="rect1353-2"
-         d="m 27,18 v -3 h -3 c 0,1.662 1.338,3 3,3 z"
-         style="fill:#000000" />
+         d="M 27,18 V 16.5 15 H 25.5 24 v 3 z"
+         style="fill:#000000;fill-opacity:1;opacity:0"
+         sodipodi:nodetypes="ccccccc" />
       <path
          id="path86-1"
          d="m 24,15 v 3 h 3 v -1 h -2 v -2 z"
@@ -257,8 +262,9 @@
        transform="matrix(0.90909091,0,0,0.90909091,-11.922799,905.08351)">
       <path
          id="path1638-0"
-         d="m 35,15 h -3 v 3 c 1.662,0 3,-1.338 3,-3 z"
-         style="fill:#000000" />
+         d="M 35,15 H 33.5 32 v 1.5 1.5 h 3 z"
+         style="fill:#000000;fill-opacity:1;opacity:0"
+         sodipodi:nodetypes="ccccccc" />
       <path
          id="path90-8"
          d="m 34,15 v 2 h -2 v 1 h 3 v -3 z"
@@ -267,11 +273,12 @@
     </g>
     <g
        id="bar-inactive-center"
-       transform="matrix(0.90909091,0,0,0.90909091,-35.559163,906.9017)">
+       transform="matrix(0.90909091,0,0,0.90909091,-35.559163,906.9017)"
+       style="fill:#00a3ff;fill-opacity:1">
       <path
          id="path1636-92"
          d="m 54,9 v 3 h 3 V 9 Z"
-         style="fill:#000000" />
+         style="fill:#000000;fill-opacity:1;opacity:0" />
     </g>
     <g
        id="bar-inactive-left"
@@ -280,7 +287,7 @@
          id="path1636-97"
          d="m 24,11 v 3 h 3 v -3 z"
          sodipodi:nodetypes="ccccc"
-         style="fill:#000000" />
+         style="fill:#000000;fill-opacity:1;opacity:0" />
       <path
          id="path95-7"
          d="m 24,11 v 3 h 1 v -3 z"
@@ -294,7 +301,7 @@
          id="path1636-75"
          d="m 32,11 v 3 h 3 v -3 z"
          sodipodi:nodetypes="ccccc"
-         style="fill:#000000" />
+         style="fill:#000000;fill-opacity:1;opacity:0" />
       <path
          id="path99-9"
          d="m 34,11 v 3 h 1 v -3 z"

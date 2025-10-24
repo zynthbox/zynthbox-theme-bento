@@ -26,3 +26,8 @@ contrast=0.2
 intensity=1.4
 saturation=10
 
+[Zynthbox]
+spacing=0
+padding=2
+radius=0
+

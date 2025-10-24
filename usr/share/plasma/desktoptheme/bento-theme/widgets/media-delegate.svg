@@ -2,28 +2,28 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    width="60"
    height="90"
-   sodipodi:docname="media-delegate.svgz"
+   sodipodi:docname="media-delegate.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    inkscape:export-filename="/home/diau/svn/playground-plasma/desktoptheme/air/widgets/button.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   version="1.0">
+   version="1.0"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="957"
-     inkscape:window-width="994"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.65490196"
      guidetolerance="10.0"
@@ -33,11 +33,11 @@
      bordercolor="#666666"
      pagecolor="#888888"
      id="base"
-     inkscape:zoom="11.313708"
-     inkscape:cx="22.616533"
-     inkscape:cy="67.331943"
-     inkscape:window-x="797"
-     inkscape:window-y="38"
+     inkscape:zoom="5.656854"
+     inkscape:cx="20.771263"
+     inkscape:cy="60.634409"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:current-layer="svg2"
      showgrid="true"
      showguides="true"
@@ -46,14 +46,22 @@
      height="27px"
      inkscape:snap-bbox="true"
      inkscape:object-nodes="false"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        enabled="true"
        visible="true"
        id="grid5592"
        type="xygrid"
        empspacing="5"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -455,7 +463,7 @@
      inkscape:connector-curvature="0"
      id="picture-center"
      d="m 7,18 0,13 42.999998,0 0,-13 L 7,18 z"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+     style="fill:#aa0000" />
   <g
      id="picture-bottomleft"
      transform="translate(0,-93)">
