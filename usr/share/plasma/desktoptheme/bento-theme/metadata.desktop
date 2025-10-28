@@ -15,10 +15,10 @@ X-KDE-PluginInfo-EnabledByDefault=true
 X-Plasma-API=5.0
 
 [Wallpaper]
-defaultWallpaperTheme=Next
+defaultWallpaperTheme=Nomad
 defaultFileSuffix=.png
-defaultWidth=1920
-defaultHeight=1080
+defaultWidth=2560
+defaultHeight=1440
 
 [ContrastEffect]
 enabled=false
