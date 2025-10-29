@@ -15,15 +15,15 @@ X-KDE-PluginInfo-EnabledByDefault=true
 X-Plasma-API=5.0
 
 [Wallpaper]
-defaultWallpaperTheme=Nomad
-defaultFileSuffix=.png
+defaultWallpaperTheme=Wave
+defaultFileSuffix=.jpg
 defaultWidth=2560
 defaultHeight=1440
 
 [ContrastEffect]
-enabled=false
-contrast=0.2
-intensity=1.4
+enabled=true
+contrast=0
+intensity=0
 saturation=10
 
 [Zynthbox]
