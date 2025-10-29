@@ -15,13 +15,17 @@ X-KDE-PluginInfo-EnabledByDefault=true
 X-Plasma-API=5.0
 
 [Wallpaper]
-defaultWallpaperTheme=Wave
+defaultWallpaperTheme=Lights
 defaultFileSuffix=.jpg
-defaultWidth=2560
-defaultHeight=1440
+defaultWidth=6000
+defaultHeight=3375
+# defaultWallpaperTheme=Wave
+# defaultFileSuffix=.jpg
+# defaultWidth=2560
+# defaultHeight=1440
 
 [ContrastEffect]
-enabled=true
+enabled=false
 contrast=0
 intensity=0
 saturation=10
