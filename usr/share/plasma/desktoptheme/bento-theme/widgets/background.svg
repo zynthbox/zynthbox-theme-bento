@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.677243"
-     inkscape:cx="35.939992"
-     inkscape:cy="36.314722"
+     inkscape:zoom="7.3386215"
+     inkscape:cx="24.5959"
+     inkscape:cy="42.378531"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -372,26 +372,26 @@
          style="fill:#ffffff;opacity:0.8" />
     </g>
     <rect
-       y="27"
-       x="28"
-       height="6"
-       width="4"
+       y="29.9995"
+       x="29.9995"
+       height="0.001"
+       width="0.001"
        id="hint-top-margin"
-       style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.65465367" />
+       style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.000133631" />
     <rect
-       style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.65465367"
+       style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.000133631"
        id="hint-bottom-margin"
-       width="4"
-       height="6"
-       x="28"
-       y="61" />
+       width="0.001"
+       height="0.001"
+       x="29.9995"
+       y="63.9995" />
     <rect
-       y="44"
-       x="43"
-       height="4"
-       width="6"
+       y="45.9995"
+       x="45.9995"
+       height="0.001"
+       width="0.001"
        id="hint-right-margin"
-       style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.65465367" />
+       style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.000133631" />
     <g
        id="topleft"
        transform="matrix(2,0,0,2,5.000465,-227.0006)">
@@ -439,12 +439,12 @@
          sodipodi:nodetypes="ccccccccc" />
     </g>
     <rect
-       style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.65465367"
+       style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.000133631"
        id="hint-left-margin"
-       width="6"
-       height="4"
-       x="9"
-       y="44.062355" />
+       width="0.001"
+       height="0.001"
+       x="11.9995"
+       y="46.061855" />
     <rect
        style="opacity:0.875;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.75592893"
        id="hint-right-inset"
