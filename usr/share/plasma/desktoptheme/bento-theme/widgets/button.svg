@@ -4,7 +4,7 @@
    viewBox="0 0 288 224"
    version="1.1"
    sodipodi:docname="button.svg"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -147,17 +147,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-width="2560"
+     inkscape:window-height="1368"
      id="namedview317"
      showgrid="true"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="normal-topleft"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="8"
-     inkscape:cx="165.6875"
-     inkscape:cy="177.0625"
+     inkscape:zoom="181.01934"
+     inkscape:cx="206.11058"
+     inkscape:cy="96.069848"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -374,12 +374,13 @@
      fill-rule="evenodd">
     <path
        id="rect833-7-3"
-       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
-       style="fill:#000000" />
+       d="m 0,28 v 2 H 2 V 29 28 H 1 Z"
+       style="fill:#000000"
+       sodipodi:nodetypes="ccccccc" />
     <path
        id="path915"
        d="m 0,28 v 2 H 2 V 29 H 1 v -1 z"
-       style="fill:#ffffff;opacity:0.7"
+       style="opacity:0.7;fill:#ffffff"
        sodipodi:nodetypes="ccccccc" />
   </g>
   <g
@@ -405,12 +406,13 @@
      fill-rule="evenodd">
     <path
        id="rect833-7-3-1"
-       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
-       style="fill:#000000" />
+       d="m 0,28 v 2 H 2 V 29 28 H 1 Z"
+       style="fill:#000000"
+       sodipodi:nodetypes="ccccccc" />
     <path
        id="path915-2"
        d="m 0,28 v 2 H 2 V 29 H 1 v -1 z"
-       style="fill:#ffffff;opacity:0.7"
+       style="opacity:0.7;fill:#ffffff"
        sodipodi:nodetypes="ccccccc" />
   </g>
   <g
@@ -437,12 +439,13 @@
      fill-rule="evenodd">
     <path
        id="rect833-7-3-6"
-       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
-       style="fill:#000000" />
+       d="m 0,28 v 2 H 2 V 29 28 H 1 Z"
+       style="fill:#000000"
+       sodipodi:nodetypes="ccccccc" />
     <path
        id="path915-0"
        d="m 0,28 v 2 H 2 V 29 H 1 v -1 z"
-       style="fill:#ffffff;opacity:0.7"
+       style="opacity:0.7;fill:#ffffff"
        sodipodi:nodetypes="ccccccc" />
   </g>
   <g
@@ -469,12 +472,13 @@
      fill-rule="evenodd">
     <path
        id="rect833-7-3-7"
-       d="m 0,28 c 0,1.108 0.892,2 2,2 v -2 z"
-       style="fill:#000000" />
+       d="m 0,28 v 2 H 2 V 29 28 H 1 Z"
+       style="fill:#000000"
+       sodipodi:nodetypes="ccccccc" />
     <path
        id="path915-9"
        d="m 0,28 v 2 H 2 V 29 H 1 v -1 z"
-       style="fill:#ffffff;opacity:0.7"
+       style="opacity:0.7;fill:#ffffff"
        sodipodi:nodetypes="ccccccc" />
   </g>
   <g
@@ -1962,44 +1966,44 @@
      xml:space="preserve"><tspan
        x="96"
        y="-56"
-       id="tspan1">NOTE: Some margin hints have 0.001 width or height because you can't use exactly 0!
+       id="tspan12">NOTE: Some margin hints have 0.001 width or height because you can't use exactly 0!
 </tspan><tspan
        x="96"
        y="-43.500003"
-       id="tspan2">NOTE: shadow, hover and focus (not focus-background) use negative margins!
+       id="tspan13">NOTE: shadow, hover and focus (not focus-background) use negative margins!
 </tspan><tspan
        x="96"
        y="-31.000003"
-       id="tspan3">This behavior is implemented in at least the following files (please keep this up to date, fix the problem or find a better place to </tspan><tspan
+       id="tspan14">This behavior is implemented in at least the following files (please keep this up to date, fix the problem or find a better place to </tspan><tspan
        x="96"
        y="-18.500003"
-       id="tspan4">put this info):
+       id="tspan15">put this info):
 </tspan><tspan
        x="96"
        y="-6.000003"
-       id="tspan5">plasma-framework/src/declarativeimports/plasmacomponents3/private/ButtonShadow.qml
+       id="tspan16">plasma-framework/src/declarativeimports/plasmacomponents3/private/ButtonShadow.qml
 </tspan><tspan
        x="96"
        y="6.499997"
-       id="tspan6">plasma-framework/src/declarativeimports/plasmacomponents3/private/ButtonHover.qml
+       id="tspan17">plasma-framework/src/declarativeimports/plasmacomponents3/private/ButtonHover.qml
 </tspan><tspan
        x="96"
        y="18.999997"
-       id="tspan7">plasma-framework/src/declarativeimports/plasmacomponents3/private/ButtonFocus.qml
+       id="tspan18">plasma-framework/src/declarativeimports/plasmacomponents3/private/ButtonFocus.qml
 </tspan><tspan
        x="96"
        y="31.499997"
-       id="tspan8">
+       id="tspan19">
 </tspan><tspan
        x="96"
        y="43.999997"
-       id="tspan9">We should add support for a negative margins hint to FrameSvg and document it instead of requiring people to read source </tspan><tspan
+       id="tspan20">We should add support for a negative margins hint to FrameSvg and document it instead of requiring people to read source </tspan><tspan
        x="96"
        y="56.499997"
-       id="tspan10">code in order to know these things. Unfortunately, not sure if we can change the code of ButtonShadow since it would break </tspan><tspan
+       id="tspan21">code in order to know these things. Unfortunately, not sure if we can change the code of ButtonShadow since it would break </tspan><tspan
        x="96"
        y="68.999997"
-       id="tspan11">themes that rely on this undocumented behaviour. Maybe in KF6.</tspan></text>
+       id="tspan22">themes that rely on this undocumented behaviour. Maybe in KF6.</tspan></text>
   <path
      fill-rule="evenodd"
      fill="#00ff00"
